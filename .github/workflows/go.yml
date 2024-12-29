@@ -27,8 +27,8 @@ jobs:
         go mod tidy
 
     - name: Build
-      run: go build -v ./server/...
+      run: go build -v ./server
 
     - name: Test
-      run: go test -v ./server/...
+      run: go test -v ./server
 

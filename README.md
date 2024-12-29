@@ -13,6 +13,7 @@ This is a simple server in GoLang for OPD Dr Desk. It is a part of the Hospital 
 
 ## How to run
 - Clone the repository
+- Run `go mod tidy` to install the dependencies
 - Run `go run .` to start the server
 
 ## License

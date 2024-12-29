@@ -18,8 +18,8 @@
 # vendor/
 
 # Go workspace file
-go.work
-go.work.sum
+server/go.work
+server/go.work.sum
 
 # env file
-./server/.env
+server/.env
